@@ -3,6 +3,7 @@ import Resume from "../assets/resume.svg";
 import Image from "next/image";
 
 function HeroSection() {
+  
   return (
     <div>
       <div className="flex items-center justify-center min-h-screen bg-bg_color">
